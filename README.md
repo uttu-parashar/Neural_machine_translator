@@ -1,5 +1,5 @@
 #                                                               ** Neural_machine_translator **
 
-## brghejgkrnszkgeiuhg
+## Objective of project :--
 
 
