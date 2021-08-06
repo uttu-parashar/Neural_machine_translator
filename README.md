@@ -33,3 +33,5 @@ After Unziping the initial Corpus i get two folders :
 ![Screenshot (11)](https://user-images.githubusercontent.com/61959483/128487115-5e2a5f84-51dc-4bec-bde0-224024dccb92.png)
 
 
+
+## <font color='green'>See the above ipynb file for whole code.</font>
