@@ -11,11 +11,13 @@ After Unziping the initial Corpus i get two folders :
     
     1 - IITB.en-hi.en.txt (contains 1.6 million English Sentences.)
     2 - IITB.en-hi.hi.txt (contains Hindi translation of each corresponding English Sentence.)
+
     
 ### Here We will Implement a Custon Endocer_Dedocder(Seq-2-Seq) Model to archive our goal.
 
 #### Architecture of Encoder_decoder Model We will use :
 ![model_architecture_2](https://user-images.githubusercontent.com/61959483/128484995-81763a95-f6b1-4de6-8982-73fcda6e9712.gif)
+
 
 ### <font color='green'>Training Results :</font>
 ![Screenshot (5)](https://user-images.githubusercontent.com/61959483/128485638-c44be5ca-1b8a-44f7-b6b1-4e0d73a49836.png)
