@@ -19,3 +19,6 @@ After Unziping the initial Corpus i get two folders :
 ### <font color='green'>Training Results :</font>
 ![Screenshot (5)](https://user-images.githubusercontent.com/61959483/128485638-c44be5ca-1b8a-44f7-b6b1-4e0d73a49836.png)
 
+### <font color='green'>Taking whole data pipeline in one predict Function & Translateting some senetnces by our model.</font>
+
+
