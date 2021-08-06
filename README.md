@@ -16,3 +16,6 @@ After Unziping the initial Corpus i get two folders :
 #### <font color='green'>Architecture of Encoder_decoder Model We will use :</font>
 ![model_architecture_2](https://user-images.githubusercontent.com/61959483/128484995-81763a95-f6b1-4de6-8982-73fcda6e9712.gif)
 
+#### <font color='green'>Training Results :</font>
+![Screenshot (5)](https://user-images.githubusercontent.com/61959483/128485638-c44be5ca-1b8a-44f7-b6b1-4e0d73a49836.png)
+
