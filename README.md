@@ -12,3 +12,7 @@ After Unziping the initial Corpus i get two folders :
     
     1 - IITB.en-hi.en.txt (contains 1.6 million English Sentences.)
     2 - IITB.en-hi.hi.txt (contains Hindi translation of each corresponding English Sentence.)
+    
+#### <font color='green'>Architecture of Encoder_decoder Model We will use :</font>
+![model_architecture_2](https://user-images.githubusercontent.com/61959483/128484995-81763a95-f6b1-4de6-8982-73fcda6e9712.gif)
+
